@@ -51,7 +51,7 @@ Cross-references between skills: the gap calculation in forecast reuses the cove
 
 ## Use with meshcode
 
-These skills are built for [meshcode](https://meshcode.ai) (free download — macOS/Windows):
+These skills are built for [meshcode](https://meshcode.ai?utm_source=github&utm_medium=org_readme&utm_campaign=gh_skills-exec) (free download — macOS/Windows):
 
 1. Open your project in meshcode
 2. In chat, ask **"show available skills"**, then **"install the executive skills"** — meshcode fetches from this repo automatically, no git or terminal needed
